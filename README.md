@@ -8,3 +8,8 @@ Usage: `go run [scriptname.go]`
 
 Since the scripts are outside of the `$GOPATH` you have to initialize the module.
 `go mod init [scriptname.go]` and `go build`
+
+---
+
+As of 19th of June, 2020 I don't have a desire to continue my journey with golang.
+I really dislike the syntax and will proceed have a look into `Rust` instead.
